@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background: url(images/DnDWallpaperPHB.jpg);
+    background: url(/Entregas/DesafioEntregable/images/DnDWallpaperPHB.jpg);
     background-attachment: fixed;
     background-size: cover;
     margin: 0%;
@@ -150,7 +150,7 @@ ul li:hover ul {
 .titulo__pagina {
     display: flex;
     border: 1px solid antiquewhite;
-    background: url(images/DnDIcon.jpg);
+    background: url(/Entregas/DesafioEntregable/images/DnDIcon.jpg);
     background-size: cover;
     font-size: larger;
     width: 15%;

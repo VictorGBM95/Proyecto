@@ -1,6 +1,6 @@
 /* CSS para todas las páginas */
 body {
-    background: url(images/DnDWallpaperPHB.jpg);
+    background: url(/Entregas/DesafioEntregable/images/DnDWallpaperPHB.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 200%;
